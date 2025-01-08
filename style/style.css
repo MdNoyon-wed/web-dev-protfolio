@@ -160,6 +160,9 @@ color: #474747;
   padding: 30px;
   box-shadow: 0px 6px 50px 0px black ;
  }
+ .resume{
+  display: flex;
+ }
  
   
  
