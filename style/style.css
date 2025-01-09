@@ -212,10 +212,34 @@ color: #474747;
   border-radius: 25px;
   border: none;
    
-
  }
  .resume,.Cv{
   text-align: center;
+ }
+ .foot{
+  width: 1400px;
+  height: 780px;
+  background-color: #FFF8F3;
+  display: flex;
+ justify-content: space-between;
+ 
+
+ }
+ .footer-column{
+  font-weight: bold;
+  font-size: 35px;
+  color:#181818;
+  padding: 130px;
+ 
+ }
+ .img1{
+  font-weight: 120px;
+  height: 26px;
+  margin: 10px;
+ }
+ .footer-column1 {
+   width: 462px;
+   height: 64px;
  }
  
 
