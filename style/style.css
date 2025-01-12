@@ -1,5 +1,5 @@
 
- 
+
 .work-sans-normal {
   font-family: "Work Sans", serif;
   font-optical-sizing: auto;
@@ -13,6 +13,13 @@ nav{
  
   
 
+}
+.body{
+  margin: 0px auto;
+}
+.resume{
+     
+  
 }
 nav ul{
   display: flex;
@@ -97,7 +104,7 @@ color: #474747;
   max-width:800px;
   height: 400px;
   background-color: #FFF8F3;
-  margin: 0 auto;
+   margin: 0px auto;
   border: 3px solid black;
   border: none;
   margin-top: 100px;
@@ -217,34 +224,35 @@ color: #474747;
   text-align: center;
  }
  .foot{
-  width: 1400px;
-  height: 780px;
-  background-color: #FFF8F3;
+  width: 1000px;
+  height: 480px;
   display: flex;
- justify-content: space-between;
- 
-
+  gap: 40px;
+  margin: 0px auto;
+  border: 2px solid crimson;
+  margin-top: 20px;
  }
- .footer-column{
-  font-weight: bold;
-  font-size: 35px;
-  color:#181818;
-  padding: 130px;
+ .footer-column {
+  padding: 10px;
  
  }
- .img1{
-  font-weight: 120px;
-  height: 26px;
+ .form{
+ 
+ }
+ .in-name{
+  width: 250px;
+  height: 55px;
+  font-size: 20px;
+ }
+footer input[type="text"],footer input[type="email"],footer input[type="textarea"],footer input[type="submit"] {
+  display: block;
+  width: 250px;
+  height: 55px;
+  font-size: 18px;
   margin: 10px;
- }
- .footer-column1 {
-   width: 462px;
-   height: 64px;
- }
+  font-size: 20px;
+}
  
-
- 
-  
  
  
  
